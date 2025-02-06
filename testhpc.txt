@@ -1,3 +1,8 @@
-#!/bin/bash
+# Tutorial for Bowtie2, SAMtools, and Visualization with IGV
 
-echo "Hello Jorge"
+## Date: Feb 13th
+
+### Step 1: Clone the Repository
+In order to get all files in your workspace, use:
+```bash
+git clone [insert repository link]
